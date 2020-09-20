@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLte.csproj": {}
+    "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLTE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLte.csproj": {
+    "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLTE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLte.csproj",
-        "projectName": "WebAminLte",
-        "projectPath": "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLte.csproj",
+        "projectUniqueName": "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLTE.csproj",
+        "projectName": "WebAminLTE",
+        "projectPath": "C:\\Users\\umber\\source\\repos\\WebAminLte\\WebAminLTE.csproj",
         "packagesPath": "C:\\Users\\umber\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\umber\\source\\repos\\WebAminLte\\obj\\",
         "projectStyle": "PackageReference",
@@ -55,6 +55,10 @@
               "version": "[3.1.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
             }

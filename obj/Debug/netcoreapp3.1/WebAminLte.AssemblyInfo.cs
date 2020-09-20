@@ -13,12 +13,12 @@ using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-WebAminLte-03D891AE-434A-49A0-ADBF-C37E8111ACDC")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("WebAminLte")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WebAminLTE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("WebAminLte")]
-[assembly: System.Reflection.AssemblyTitleAttribute("WebAminLte")]
+[assembly: System.Reflection.AssemblyProductAttribute("WebAminLTE")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WebAminLTE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
